@@ -1,13 +1,13 @@
 
 TITLE: 
-Aesthetic - 100% Fully Responsive Free HTML5 Bootstrap Template
+Learn - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -47,6 +47,9 @@ http://www.owlcarousel.owlgraphic.com/
 
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
 
 Demo Images:
 http://unsplash.com
